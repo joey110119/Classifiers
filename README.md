@@ -1,5 +1,10 @@
 # Classifiers
 
+## Outline of My README
+* 資料前處理
+* 使用的 Classifiers 模型
+* 討論
+
 ## 資料前處理
 ### x 項目整理 
 * 將母 data 的 closeprice 以 list 型態取出，並刪除不必要的欄位，如: 'Close Price', 'Date'。
