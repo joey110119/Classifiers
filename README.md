@@ -36,7 +36,7 @@ from keras.layers import Dense
 
 ### How did you improve your classifiers ?
 * 母資料的範圍需要增加
-  * 可以使用的 feature
+  * 可以使用的 feature 增加
   * 操作的資料年份增加
  
 * 資料前處理方式改變
