@@ -10,8 +10,7 @@
 * 將母 data 取出的 closeprice List 逐一 run 過一遍，若後一天大於當天，則 boolean = 1，反之則，boolean = 0
 
 ## 使用的 Classifiers 模型
-### Logistic Regression
-* 使用套件: 
+### Logistic Regression 
 ```python=
 from sklearn import preprocessing, linear_model
 ```
