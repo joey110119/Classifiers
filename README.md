@@ -32,7 +32,7 @@ from keras.layers import Dense
 三個模型的套入結果，幾乎是一樣的準確率(50多％)，印出預測結果發現也都是一樣的預測。我想可能會是跟資料量的大小不夠多，或是 feature 不夠多有關。
 
 ### Can this result remain if the dataset is different ?
-不一定，不同的 dataset 必定會有不一樣適用的模型，自己初次練習時適用過的 iris data 或是網路上常見的鐵答尼號 data，就會有較佳的準確率，推測應該跟資料較完美有關。
+不一定，不同的 dataset 必定會有不一樣適用的模型，自己初次練習時使用過的 iris data 或是網路上常見的鐵答尼號 data，就會有較佳的準確率，推測應該跟資料較完美有關。
 
 ### How did you improve your classifiers ?
 * 母資料的範圍需要增加
